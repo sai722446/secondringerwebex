@@ -28,7 +28,7 @@
         },
         {
           "comp":"second-ringer",
-          "script":"https://github.com/sai722446/secondringerwebex/blob/main/dist/index.js"
+          "script":"https://github.com/sai722446/secondringerwebex/dist/index.js"
         },
         {
           "comp": "ai-assistant"
